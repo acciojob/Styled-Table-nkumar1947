@@ -1,1 +1,9 @@
 /* your code */
+table{
+	
+	border:solid 1px black ;
+	background-color:lightblue
+	}
+thead{
+	background-color: darkblue;
+}
